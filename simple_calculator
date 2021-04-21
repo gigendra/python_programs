@@ -15,7 +15,7 @@ class calcs:
         elif a==0:
             o1.contd()
         else:
-            print("invalid option selected")
+            print("invalid option selected,select correct option: \n")
             o1.menus()
 
     def adds(self):
