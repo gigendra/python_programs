@@ -19,25 +19,25 @@ class calcs:
             o1.menus()
 
     def adds(self):
-        print("enter two real nubers\n")
+        print("enter two real numbers\n")
         a = int(input())
         b = int(input())
         print("a+b=", a + b)
         o1.contd()
     def subs(self):
-        print("enter two real nubers\n")
+        print("enter two real numbers\n")
         a = int(input())
         b = int(input())
         print("a-b=", a - b)
         o1.contd()
     def muls(self):
-        print("enter two real nubers\n")
+        print("enter two real numbers\n")
         a = int(input())
         b = int(input())
         print("a*b=", a * b)
         o1.contd()
     def divs(self):
-        print("enter two real nubers \n")
+        print("enter two real numbers \n")
         a = int(input())
         b = int(input())
         print("a/b=", a / b)
