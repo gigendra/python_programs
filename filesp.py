@@ -58,6 +58,7 @@ class schoo:
     def filesp(self):
         f=open("emps.txt", "r")
         print(f.read())
+        f.close()
 
 
 n = int(input("enter the no.of employees"))
